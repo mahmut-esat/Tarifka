@@ -1,16 +1,18 @@
 import React from "react";
-import { View, Text, Image, TouchableOpacity } from "react-native";
+import { View, Text, Image, TouchableWithoutFeedback } from "react-native";
 import {} from "react-native-web";
 import styles from "./MealCard.style";
 
 const MealCard = ({ meal, onSelect }) => {
   return (
-    <TouchableOpacity style={styles.container} onPress={onSelect}>
-      <View style={styles.inner_container}>
-        <Image style={styles.image} source={{ uri: meal.strMealThumb }} />
-        <Text style={styles.title}>{meal.strMeal}</Text>
+    <TouchableWithoutFeedback  onPress={onSelect}>
+      <View style={styles.container}>
+        <View style={styles.inner_container}>
+          <Image style={styles.image} source={{ uri: meal.strMealThumb }} />
+          <Text style={styles.title}>{meal.strMeal}</Text>
+        </View>
       </View>
-    </TouchableOpacity>
+    </TouchableWithoutFeedback>
   );
 };
 

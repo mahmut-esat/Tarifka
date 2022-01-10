@@ -14,14 +14,14 @@ const Detail = ({ route }) => {
   const renderDetail = ({ item }) => <DetailCard detail={item} />;
 
 
-/*   if (loading) {
+  if (loading) {
     return <Loading />;
   }
 
   if (error) {
     return <Error />;
   }
- */
+
 
   return (
     <View>

@@ -19,15 +19,15 @@ const Meal = ({ route, navigation }) => {
     <MealCard meal={item} onSelect={() => handleMealSelect(item.idMeal)} />
   );
 
-  /*   if (loading) {
+    if (loading) {
     return <Loading />;
   }
 
   if (error) {
     return <Error />;
   }
- */
 
+ 
   return (
     <View>
       <FlatList

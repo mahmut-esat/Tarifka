@@ -11,7 +11,7 @@ export default StyleSheet.create({
   inner_container: {
     flex: 1,
     alignItems: "center",
-    backgroundColor: "eceff1",
+    backgroundColor: "#eceff1",
     marginHorizontal: 15,
     marginVertical: 5,
   },
@@ -42,7 +42,6 @@ export default StyleSheet.create({
   },
 
   button:{
-    color: "red",
-    borderRadius:10
+    marginTop:10,
   }
 });

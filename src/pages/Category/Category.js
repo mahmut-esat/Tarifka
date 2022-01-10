@@ -22,14 +22,14 @@ const Category = ({ navigation }) => {
     />
   );
 
-/*   if (loading) {
+  if (loading) {
     return <Loading />;
   }
 
   if (error) {
     return <Error />;
   }
- */
+
   return (
     <View>
       <FlatList
