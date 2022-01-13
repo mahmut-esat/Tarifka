@@ -8,4 +8,4 @@
 - Creating Custom Hooks
 - Using Lottie animation packs
 
-![Image]("./")
+![Image]("C:\Users\ozlemm\Desktop\ReactNativeProjects\Screenshots\Tarifka")
