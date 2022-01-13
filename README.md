@@ -8,4 +8,4 @@
 - Creating Custom Hooks
 - Using Lottie animation packs
 
-![Image]("file:///C:/Users/ozlemm/Desktop/ReactNativeProjects/Screenshots/Tarifka/Screenshot_2022-01-10-23-22-34.jpg")
+![Image]("../Screenshots/Tarifka/Screenshot_2022-01-10-23-22-34.jpg")
