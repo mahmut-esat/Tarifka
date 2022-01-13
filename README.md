@@ -9,6 +9,6 @@
 - Using Lottie animation packs
 
 ![](src/ss/1.gif)
-![](src/ss/2.jpeg)
+![](src/ss/2.jpg)
 ![](src/ss/tarifka.jpg)
-![](src/ss/4.jpeg)
+![](src/ss/4.jpg)
