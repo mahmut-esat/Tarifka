@@ -8,6 +8,6 @@
 - Creating Custom Hooks
 - Using Lottie animation packs
 
-![1](src/ss/2.jpeg)
+![](src/ss/1.gif)
 
-![1](src/ss/tarifka.jpg)
+![](src/ss/tarifka.jpg)
