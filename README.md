@@ -9,3 +9,5 @@
 - Using Lottie animation packs
 
 ![1](src/ss/2.jpeg)
+
+![1](src/ss/tarifka.jpg)
