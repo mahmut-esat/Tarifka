@@ -8,4 +8,4 @@
 - Creating Custom Hooks
 - Using Lottie animation packs
 
-![Image]("../Screenshots/Tarifka/Screenshot_2022-01-10-23-22-34.jpg")
+![](src/ScreenShots/1.gif)
