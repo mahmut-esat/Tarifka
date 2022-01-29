@@ -8,7 +8,7 @@
 - Creating Custom Hooks
 - Using Lottie animation packs
 
-![](src/ss/Tarfika.gif)
+![](src/ss/TarfikaProject.gif)
 ![](src/ss/2.jpg)
 ![](src/ss/tarifka.jpg)
 ![](src/ss/4.jpg)
